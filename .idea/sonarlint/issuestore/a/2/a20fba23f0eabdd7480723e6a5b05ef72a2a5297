@@ -1,0 +1,17 @@
+
+\
+java:S1192:"FDefine a constant instead of duplicating this literal "token" 3 times.(Úè”œ
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓªÈ
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†æˆÿûÿÿÿÿ
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†æˆÿûÿÿÿÿ
+y
+java:S1488‰"]Immediately return this expression instead of assigning it to the temporary variable "email".(»ÌÙÙøÿÿÿÿ
+š
+java:S1130'"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(ñœ£ýÿÿÿÿ
+>	java:S108)")Either remove or fill this block of code.(óï‹ò
+V	java:S125O"<This block of commented-out lines of code should be removed.(›Èƒ¤ûÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(“ÓÌÑ
+N
+java:S1854…"7Remove this useless assignment to local variable "sig".(†ˆÆú
+?
+java:S1481…"(Remove this unused "sig" local variable.(†ˆÆú

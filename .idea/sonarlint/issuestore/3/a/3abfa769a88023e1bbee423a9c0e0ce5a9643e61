@@ -1,0 +1,10 @@
+
+b
+java:S1192P"LDefine a constant instead of duplicating this literal "description" 3 times.(¶Ì¸
+a
+java:S1192O"FDefine a constant instead of duplicating this literal "title" 3 times.(˜Â›üùÿÿÿÿ
+d
+java:S11927"IDefine a constant instead of duplicating this literal "courseId" 4 times.(Í‹–óüÿÿÿÿ
+b	java:S101+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„½¯ó
+d
+java:S2095c"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(â»¬

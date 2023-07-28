@@ -1,0 +1,16 @@
+
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "accessToken".(ßêè‘ÿÿÿÿÿ
+}
+java:S1488$"bImmediately return this expression instead of assigning it to the temporary variable "googlePojo".(¤’ãÏÿÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÀÍù©ýÿÿÿÿ
+ 
+java:S1130"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(ßžÌË
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ßêè‘ÿÿÿÿÿ
+Ÿ
+java:S1130"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(‘™Æ\
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÆÉÐ¹
+Z
+java:S1128	"?Remove this unused import 'org.apache.http.client.fluent.Form'.(é¢¶‰ûÿÿÿÿ

@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ¸şåüÿÿÿÿ
+
+java:S1130("yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ıù±
+
+java:S1130("lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±
+I
+java:S1172'".Remove this unused method parameter "request".(ùêÜåûÿÿÿÿ
+E
+java:S1481U"*Remove this unused "newId" local variable.(ñ³ä½üÿÿÿÿ

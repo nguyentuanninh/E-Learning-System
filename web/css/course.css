@@ -1,0 +1,18 @@
+.category ul,
+.course-group ul{
+    list-style: none;   
+    padding: 0;
+}
+
+.category ul li, 
+.course-group ul li{
+    border: 1px #ddd solid;
+    padding: 5px;
+    font-size: 15px;
+}
+
+
+.category ul li:hover,
+.course-group ul li:hover{
+    color: red;
+}

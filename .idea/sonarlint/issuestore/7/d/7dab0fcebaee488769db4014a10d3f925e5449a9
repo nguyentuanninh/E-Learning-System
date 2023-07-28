@@ -1,0 +1,79 @@
+
+Q
+java:S3740,"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8›œÑ»1
+Q
+java:S3740K"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8œœÑ»1
+Q
+java:S3740m"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8œœÑ»1
+R
+java:S3740Œ"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8œœÑ»1
+R
+java:S3740«"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8œœÑ»1
+R
+java:S3740Ë"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8œœÑ»1
+R
+java:S3740ï"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8œœÑ»1
+R
+java:S3740ÿ"/Provide the parametrized type for this generic.(æø´üÿÿÿÿÿ8œœÑ»1
+r
+java:S1192:"PDefine a constant instead of duplicating this literal "NumberEnrolled" 11 times.(´»­üÿÿÿÿ8ŸœÑ»1
+n
+java:S1192A"LDefine a constant instead of duplicating this literal "approve_at" 11 times.(›„Ó•ûÿÿÿÿ8 œÑ»1
+n
+java:S1192<"LDefine a constant instead of duplicating this literal "Objectives" 11 times.(„öŒÇüÿÿÿÿ8¡œÑ»1
+j
+java:S11927"MDefine a constant instead of duplicating this literal "description" 11 times.(»Õæ8¡œÑ»1
+i
+java:S11928"GDefine a constant instead of duplicating this literal "price" 11 times.(ç¿Ôùÿÿÿÿ8¡œÑ»1
+l
+java:S1192?"JDefine a constant instead of duplicating this literal "disabled" 11 times.(”‹Ù…øÿÿÿÿ8¢œÑ»1
+i
+java:S11929"LDefine a constant instead of duplicating this literal "categories" 11 times.(ŞôÃÑ8¢œÑ»1
+j
+java:S1192>"MDefine a constant instead of duplicating this literal "modified_at" 11 times.(»ñ÷™8£œÑ»1
+d
+java:S11926"GDefine a constant instead of duplicating this literal "image" 11 times.(¬„8£œÑ»1
+i
+java:S1192;"GDefine a constant instead of duplicating this literal "level" 11 times.(œÁÊåÿÿÿÿÿ8¤œÑ»1
+j
+java:S1192@"MDefine a constant instead of duplicating this literal "modified_by" 11 times.(ÒêèÔ8¤œÑ»1
+h
+java:S1192="KDefine a constant instead of duplicating this literal "create_at" 11 times.(‹Ù½8¥œÑ»1
+s	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¡ù€şÿÿÿÿ8§œÑ»1
+r
+java:S2095¼"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8´‰ËÜ’1
+q
+java:S2095/"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8³‰ËÜ’1
+q
+java:S2095p"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8°‰ËÜ’1
+r
+java:S2095“"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï›ãÒøÿÿÿÿ8°‰ËÜ’1
+r
+java:S2095®"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8µ‰ËÜ’1
+m
+java:S2095ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úèË8²‰ËÜ’1
+r
+java:S2095Ş"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï›ãÒøÿÿÿÿ8°‰ËÜ’1
+r
+java:S2095¹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï›ãÒøÿÿÿÿ8²‰ËÜ’1
+q
+java:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8´‰ËÜ’1
+r
+java:S2095ã"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8¯‰ËÜ’1
+r
+java:S2095Ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8±‰ËÜ’1
+m
+java:S2095¢"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÌéÕë8±‰ËÜ’1
+q
+java:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øÈ½±ÿÿÿÿÿ8³‰ËÜ’1
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8²‰ËÜ’1
+r
+java:S2095…"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8´‰ËÜ’1
+r
+java:S2095ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8³‰ËÜ’1
+r
+java:S2095×"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8µ‰ËÜ’1
+E	java:S108&")Either remove or fill this block of code.(”ı¾8åÑ»1
+p	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï•ßıÿÿÿÿ8ÃŒËÜ’1
+F	java:S108²")Either remove or fill this block of code.(À‹ø„8¿ºÙÜ’1

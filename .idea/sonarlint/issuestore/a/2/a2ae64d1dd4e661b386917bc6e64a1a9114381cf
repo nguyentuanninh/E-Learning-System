@@ -1,0 +1,53 @@
+
+L
+java:S3740¹"/Provide the parametrized type for this generic.(êÕÉ8íèı“1
+L
+java:S3740Û"/Provide the parametrized type for this generic.(êÕÉ8îèı“1
+m
+java:S1192#"KDefine a constant instead of duplicating this literal "created_at" 7 times.(“Ö´Àşÿÿÿÿ8÷èı“1
+f
+java:S1192"IDefine a constant instead of duplicating this literal "password" 7 times.(¢Šä8øèı“1
+f
+java:S1192%"IDefine a constant instead of duplicating this literal "disabled" 7 times.(Ï©»æ8øèı“1
+i
+java:S1192$"LDefine a constant instead of duplicating this literal "modified_at" 7 times.(—«šÈ8ùèı“1
+b
+java:S1192!"FDefine a constant instead of duplicating this literal "email" 7 times.(«îš8ùèı“1
+d
+java:S1192""HDefine a constant instead of duplicating this literal "type_id" 7 times.(ŒÑ×j8úèı“1
+h
+java:S1192 "FDefine a constant instead of duplicating this literal "phone" 7 times.(€®è´úÿÿÿÿ8úèı“1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "username" 7 times.(«»¦áøÿÿÿÿ8úèı“1
+s	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êº¤·ùÿÿÿÿ8üèı“1
+s	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ•ûüÿÿÿÿ8üèı“1
+r
+java:S2095‹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Çëı“1
+r
+java:S2095¦"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Çëı“1
+r
+java:S2095ı"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Çëı“1
+r
+java:S2095Ä"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Çëı“1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Çëı“1
+q
+java:S2095y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Çëı“1
+r
+java:S2095•"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Çëı“1
+r
+java:S2095á"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Èëı“1
+q
+java:S2095J"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Èëı“1
+q
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Èëı“1
+q
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8Èëı“1
+X	java:S125z"<This block of commented-out lines of code should be removed.(İ³•8‹ìı“1
+P
+java:S6126»"2Replace this String concatenation with Text block.(×ıí†8²ìı“1
+P
+java:S6126İ"2Replace this String concatenation with Text block.(×ıí†8Âìı“1
+U
+java:S6126ø"2Replace this String concatenation with Text block.(ƒ½˜§úÿÿÿÿ8Ğìı“1
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ùìı“1
