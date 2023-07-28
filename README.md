@@ -2,6 +2,7 @@
 
 This project is an online learning website developed using JSP/ Servlet. It provides a platform for users to access educational resources, participate in courses, and enhance their knowledge remotely.
 
+[Original project](https://gitlab.com/ninhnthe161847/swp391_se1715_group3.git)
 
 ## Contributor
 - Nguyễn Tuấn Ninh
