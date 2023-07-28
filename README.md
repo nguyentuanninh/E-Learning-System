@@ -2,6 +2,13 @@
 
 This project is an online learning website developed using JSP/ Servlet. It provides a platform for users to access educational resources, participate in courses, and enhance their knowledge remotely.
 
+
+## Contributor
+- Nguyễn Tuấn Ninh
+- Đào Quang Khải
+- Nguyễn Quang Minh
+- Nguyễn Tiến Giang
+- Vũ Khánh Toàn
 ## Features
 
 📚 Course Management:
@@ -81,10 +88,3 @@ The project utilizes the following technologies and tools:
 The website uses a relational database to store and manage data. Here is a simplified version of the database schema:
 
 ![Database Schema](img/database.png)
-
-## Contribution Guidelines
-- Nguyễn Tuấn Ninh
-- Đào Quang Khải
-- Nguyễn Quang Minh
-- Nguyễn Tiến Giang
-- Vũ Khánh Toàn
